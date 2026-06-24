@@ -1,0 +1,1814 @@
+{
+  "countries": {
+    "afghanistan": {
+      "id": "afghanistan",
+      "continentId": "central_eurasia",
+      "bordersIds": [
+        "central_asian_mountains",
+        "iran",
+        "karakum_desert",
+        "pakistan"
+      ]
+    },
+    "alberta": {
+      "id": "alberta",
+      "continentId": "south_canada",
+      "bordersIds": [
+        "british_columbia",
+        "central_rocky_mountains",
+        "north_manitoba",
+        "northwest_territories",
+        "south_manitoba"
+      ]
+    },
+    "amazonas": {
+      "id": "amazonas",
+      "continentId": "brazil",
+      "bordersIds": [
+        "bolivia",
+        "colombia",
+        "north_brazil",
+        "northeast_coast",
+        "peru",
+        "venezuela",
+        "west_central_brazil"
+      ]
+    },
+    "amur": {
+      "id": "amur",
+      "continentId": "yakutia",
+      "bordersIds": [
+        "central_yakut_plain",
+        "chita",
+        "elgi_plateau",
+        "khabarovsk",
+        "mongolia",
+        "nei_menggu"
+      ]
+    },
+    "anchorage": {
+      "id": "anchorage",
+      "continentId": "alaska",
+      "bordersIds": [
+        "bethel",
+        "british_columbia",
+        "fairbanks",
+        "yukon"
+      ]
+    },
+    "angola": {
+      "id": "angola",
+      "continentId": "southern_africa",
+      "bordersIds": [
+        "congo",
+        "southern_deserts",
+        "zambia-zimbabwe"
+      ]
+    },
+    "arkhangelsk": {
+      "id": "arkhangelsk",
+      "continentId": "west_russia",
+      "bordersIds": [
+        "komi_republic",
+        "northwest_russia",
+        "volga",
+        "west_central_russia"
+      ]
+    },
+    "baffin-nunavut": {
+      "id": "baffin-nunavut",
+      "continentId": "north_canada",
+      "bordersIds": [
+        "central_artic_nunavut",
+        "kivalliq-nunavut",
+        "qaasuitsup"
+      ]
+    },
+    "baja_california": {
+      "id": "baja_california",
+      "continentId": "central_america",
+      "bordersIds": [
+        "california",
+        "north_mexico",
+        "southwest_us"
+      ]
+    },
+    "balkan_penisula": {
+      "id": "balkan_penisula",
+      "continentId": "eastern_europe",
+      "bordersIds": [
+        "east_central_europe",
+        "italian_peninsula",
+        "turkey",
+        "ukraine"
+      ]
+    },
+    "baltic_states": {
+      "id": "baltic_states",
+      "continentId": "eastern_europe",
+      "bordersIds": [
+        "east_central_europe",
+        "northwest_russia",
+        "ukraine",
+        "west_central_russia"
+      ]
+    },
+    "barrow": {
+      "id": "barrow",
+      "continentId": "alaska",
+      "bordersIds": [
+        "bethel",
+        "fairbanks",
+        "yukon"
+      ]
+    },
+    "bethel": {
+      "id": "bethel",
+      "continentId": "alaska",
+      "bordersIds": [
+        "anchorage",
+        "barrow",
+        "fairbanks"
+      ]
+    },
+    "bolivia": {
+      "id": "bolivia",
+      "continentId": "southern_sa",
+      "bordersIds": [
+        "amazonas",
+        "north_cono_sur",
+        "paraguay",
+        "peru",
+        "west_central_brazil"
+      ]
+    },
+    "british_columbia": {
+      "id": "british_columbia",
+      "continentId": "south_canada",
+      "bordersIds": [
+        "alberta",
+        "anchorage",
+        "central_rocky_mountains",
+        "northwest_territories",
+        "pacific_northwest",
+        "yukon"
+      ]
+    },
+    "buryatia_republic": {
+      "id": "buryatia_republic",
+      "continentId": "siberia",
+      "bordersIds": [
+        "central_siberian_plateau",
+        "chita",
+        "east_kazakhstan",
+        "irkutsk",
+        "mongolia",
+        "novosibirsk",
+        "xinjiang"
+      ]
+    },
+    "california": {
+      "id": "california",
+      "continentId": "west_us",
+      "bordersIds": [
+        "baja_california",
+        "great_basin",
+        "pacific_northwest",
+        "southwest_us"
+      ]
+    },
+    "central_african_republics": {
+      "id": "central_african_republics",
+      "continentId": "central_africa",
+      "bordersIds": [
+        "congo",
+        "equatorial_states",
+        "libya",
+        "niger",
+        "nigeria",
+        "south_sudan",
+        "sudan"
+      ]
+    },
+    "central_artic_nunavut": {
+      "id": "central_artic_nunavut",
+      "continentId": "north_canada",
+      "bordersIds": [
+        "baffin-nunavut",
+        "kivalliq-nunavut",
+        "northwest_territories"
+      ]
+    },
+    "central_asian_mountains": {
+      "id": "central_asian_mountains",
+      "continentId": "central_eurasia",
+      "bordersIds": [
+        "afghanistan",
+        "central_kazakhstan",
+        "east_kazakhstan",
+        "karakum_desert",
+        "pakistan",
+        "xinjiang"
+      ]
+    },
+    "central_kazakhstan": {
+      "id": "central_kazakhstan",
+      "continentId": "kazakhstan",
+      "bordersIds": [
+        "central_asian_mountains",
+        "east_kazakhstan",
+        "karakum_desert",
+        "novosibirsk",
+        "sverdlovsk",
+        "tyumen",
+        "volga",
+        "west_kazakhstan"
+      ]
+    },
+    "central_rocky_mountains": {
+      "id": "central_rocky_mountains",
+      "continentId": "west_us",
+      "bordersIds": [
+        "alberta",
+        "british_columbia",
+        "great_basin",
+        "great_plains",
+        "midwest",
+        "pacific_northwest",
+        "south_manitoba"
+      ]
+    },
+    "central_siberian_plateau": {
+      "id": "central_siberian_plateau",
+      "continentId": "siberia",
+      "bordersIds": [
+        "buryatia_republic",
+        "irkutsk",
+        "khanty-mansiysk",
+        "novosibirsk",
+        "noyabrsk",
+        "taymyr_peninsula"
+      ]
+    },
+    "central_yakut_plain": {
+      "id": "central_yakut_plain",
+      "continentId": "yakutia",
+      "bordersIds": [
+        "amur",
+        "chita",
+        "elgi_plateau",
+        "irkutsk",
+        "taymyr_peninsula"
+      ]
+    },
+    "chita": {
+      "id": "chita",
+      "continentId": "siberia",
+      "bordersIds": [
+        "amur",
+        "buryatia_republic",
+        "central_yakut_plain",
+        "irkutsk",
+        "mongolia"
+      ]
+    },
+    "chukotka": {
+      "id": "chukotka",
+      "continentId": "russian_far_east",
+      "bordersIds": [
+        "kamchatka",
+        "magadan",
+        "new_siberian_islands"
+      ]
+    },
+    "colombia": {
+      "id": "colombia",
+      "continentId": "northen_sa",
+      "bordersIds": [
+        "amazonas",
+        "ecuador",
+        "peru",
+        "southern_mesoamerica",
+        "venezuela"
+      ]
+    },
+    "congo": {
+      "id": "congo",
+      "continentId": "central_africa",
+      "bordersIds": [
+        "angola",
+        "central_african_republics",
+        "equatorial_states",
+        "south_sudan",
+        "southern_horn",
+        "tanzania",
+        "zambia-zimbabwe"
+      ]
+    },
+    "denmark": {
+      "id": "denmark",
+      "continentId": "scandinavia",
+      "bordersIds": [
+        "west_central_europe"
+      ]
+    },
+    "east_central_china": {
+      "id": "east_central_china",
+      "continentId": "east_china",
+      "bordersIds": [
+        "north_china",
+        "sichuan",
+        "south_china",
+        "southeast_china"
+      ]
+    },
+    "east_central_europe": {
+      "id": "east_central_europe",
+      "continentId": "eastern_europe",
+      "bordersIds": [
+        "balkan_penisula",
+        "baltic_states",
+        "italian_peninsula",
+        "ukraine",
+        "west_central_europe"
+      ]
+    },
+    "east_kazakhstan": {
+      "id": "east_kazakhstan",
+      "continentId": "kazakhstan",
+      "bordersIds": [
+        "buryatia_republic",
+        "central_asian_mountains",
+        "central_kazakhstan",
+        "novosibirsk",
+        "xinjiang"
+      ]
+    },
+    "eastern_great_lakes": {
+      "id": "eastern_great_lakes",
+      "continentId": "north_us",
+      "bordersIds": [
+        "new_england",
+        "southeast_us",
+        "western_great_lakes"
+      ]
+    },
+    "ecuador": {
+      "id": "ecuador",
+      "continentId": "northen_sa",
+      "bordersIds": [
+        "colombia",
+        "peru"
+      ]
+    },
+    "egypt": {
+      "id": "egypt",
+      "continentId": "north_africa",
+      "bordersIds": [
+        "libya",
+        "saudi_arabia",
+        "sudan",
+        "the_levant"
+      ]
+    },
+    "elgi_plateau": {
+      "id": "elgi_plateau",
+      "continentId": "yakutia",
+      "bordersIds": [
+        "amur",
+        "central_yakut_plain",
+        "khabarovsk",
+        "new_siberian_islands"
+      ]
+    },
+    "equatorial_states": {
+      "id": "equatorial_states",
+      "continentId": "central_africa",
+      "bordersIds": [
+        "central_african_republics",
+        "congo",
+        "nigeria"
+      ]
+    },
+    "fairbanks": {
+      "id": "fairbanks",
+      "continentId": "alaska",
+      "bordersIds": [
+        "anchorage",
+        "barrow",
+        "bethel",
+        "yukon"
+      ]
+    },
+    "finland": {
+      "id": "finland",
+      "continentId": "scandinavia",
+      "bordersIds": [
+        "northwest_russia",
+        "norway",
+        "sweden"
+      ]
+    },
+    "floridian_peninsula": {
+      "id": "floridian_peninsula",
+      "continentId": "south_us",
+      "bordersIds": [
+        "gulf_coast",
+        "southeast_us"
+      ]
+    },
+    "france": {
+      "id": "france",
+      "continentId": "western_europe",
+      "bordersIds": [
+        "iberian_peninsula",
+        "italian_peninsula",
+        "west_central_europe"
+      ]
+    },
+    "great_basin": {
+      "id": "great_basin",
+      "continentId": "west_us",
+      "bordersIds": [
+        "california",
+        "central_rocky_mountains",
+        "great_plains",
+        "pacific_northwest",
+        "southwest_us"
+      ]
+    },
+    "great_plains": {
+      "id": "great_plains",
+      "continentId": "west_us",
+      "bordersIds": [
+        "central_rocky_mountains",
+        "great_basin",
+        "midwest",
+        "southwest_us",
+        "texas"
+      ]
+    },
+    "gulf_coast": {
+      "id": "gulf_coast",
+      "continentId": "south_us",
+      "bordersIds": [
+        "floridian_peninsula",
+        "midwest",
+        "southeast_us",
+        "texas",
+        "western_great_lakes"
+      ]
+    },
+    "gulf_of_ob": {
+      "id": "gulf_of_ob",
+      "continentId": "ural",
+      "bordersIds": [
+        "khanty-mansiysk",
+        "komi_republic",
+        "noyabrsk",
+        "taymyr_peninsula"
+      ]
+    },
+    "hainan": {
+      "id": "hainan",
+      "continentId": "east_china",
+      "bordersIds": [
+        "south_china"
+      ]
+    },
+    "iberian_peninsula": {
+      "id": "iberian_peninsula",
+      "continentId": "western_europe",
+      "bordersIds": [
+        "france"
+      ]
+    },
+    "indochinese_peninsula": {
+      "id": "indochinese_peninsula",
+      "continentId": "south_asia",
+      "bordersIds": [
+        "myanmar",
+        "singapore",
+        "south_china"
+      ]
+    },
+    "iran": {
+      "id": "iran",
+      "continentId": "middle_east",
+      "bordersIds": [
+        "afghanistan",
+        "iraq",
+        "karakum_desert",
+        "pakistan",
+        "transcaucasia",
+        "turkey"
+      ]
+    },
+    "iraq": {
+      "id": "iraq",
+      "continentId": "middle_east",
+      "bordersIds": [
+        "iran",
+        "saudi_arabia",
+        "the_levant",
+        "turkey"
+      ]
+    },
+    "irkutsk": {
+      "id": "irkutsk",
+      "continentId": "siberia",
+      "bordersIds": [
+        "buryatia_republic",
+        "central_siberian_plateau",
+        "central_yakut_plain",
+        "chita",
+        "taymyr_peninsula"
+      ]
+    },
+    "italian_peninsula": {
+      "id": "italian_peninsula",
+      "continentId": "western_europe",
+      "bordersIds": [
+        "balkan_penisula",
+        "east_central_europe",
+        "france",
+        "west_central_europe"
+      ]
+    },
+    "java": {
+      "id": "java",
+      "continentId": "southeast_asia",
+      "bordersIds": [
+        "sumatra"
+      ]
+    },
+    "kamchatka": {
+      "id": "kamchatka",
+      "continentId": "russian_far_east",
+      "bordersIds": [
+        "chukotka",
+        "magadan"
+      ]
+    },
+    "karakum_desert": {
+      "id": "karakum_desert",
+      "continentId": "central_eurasia",
+      "bordersIds": [
+        "afghanistan",
+        "central_asian_mountains",
+        "central_kazakhstan",
+        "iran",
+        "west_kazakhstan"
+      ]
+    },
+    "khabarovsk": {
+      "id": "khabarovsk",
+      "continentId": "russian_far_east",
+      "bordersIds": [
+        "amur",
+        "elgi_plateau",
+        "magadan",
+        "manchuria",
+        "nei_menggu",
+        "new_siberian_islands",
+        "primorsky"
+      ]
+    },
+    "khanty-mansiysk": {
+      "id": "khanty-mansiysk",
+      "continentId": "ural",
+      "bordersIds": [
+        "central_siberian_plateau",
+        "gulf_of_ob",
+        "komi_republic",
+        "novosibirsk",
+        "noyabrsk",
+        "sverdlovsk",
+        "tyumen"
+      ]
+    },
+    "kivalliq-nunavut": {
+      "id": "kivalliq-nunavut",
+      "continentId": "north_canada",
+      "bordersIds": [
+        "baffin-nunavut",
+        "central_artic_nunavut",
+        "north_manitoba",
+        "northwest_territories"
+      ]
+    },
+    "komi_republic": {
+      "id": "komi_republic",
+      "continentId": "west_russia",
+      "bordersIds": [
+        "arkhangelsk",
+        "gulf_of_ob",
+        "khanty-mansiysk",
+        "sverdlovsk",
+        "volga"
+      ]
+    },
+    "korean_peninsula": {
+      "id": "korean_peninsula",
+      "continentId": "west_pacific",
+      "bordersIds": [
+        "manchuria",
+        "north_china"
+      ]
+    },
+    "kujalleg": {
+      "id": "kujalleg",
+      "continentId": "greenland",
+      "bordersIds": [
+        "qeqqata",
+        "semersooq"
+      ]
+    },
+    "labrador": {
+      "id": "labrador",
+      "continentId": "east_canada",
+      "bordersIds": [
+        "north_quebec",
+        "nova_scotia"
+      ]
+    },
+    "libya": {
+      "id": "libya",
+      "continentId": "north_africa",
+      "bordersIds": [
+        "central_african_republics",
+        "egypt",
+        "mediterranean_algeria",
+        "niger",
+        "saharan_algeria",
+        "sudan"
+      ]
+    },
+    "magadan": {
+      "id": "magadan",
+      "continentId": "russian_far_east",
+      "bordersIds": [
+        "chukotka",
+        "kamchatka",
+        "khabarovsk",
+        "new_siberian_islands"
+      ]
+    },
+    "mali": {
+      "id": "mali",
+      "continentId": "northwest_africa",
+      "bordersIds": [
+        "mauritania",
+        "niger",
+        "north_gulf",
+        "saharan_algeria",
+        "west_african_coast"
+      ]
+    },
+    "manchuria": {
+      "id": "manchuria",
+      "continentId": "west_china",
+      "bordersIds": [
+        "khabarovsk",
+        "korean_peninsula",
+        "nei_menggu",
+        "north_china",
+        "primorsky"
+      ]
+    },
+    "mauritania": {
+      "id": "mauritania",
+      "continentId": "northwest_africa",
+      "bordersIds": [
+        "mali",
+        "morocco",
+        "saharan_algeria",
+        "west_african_coast"
+      ]
+    },
+    "mediterranean_algeria": {
+      "id": "mediterranean_algeria",
+      "continentId": "north_africa",
+      "bordersIds": [
+        "libya",
+        "morocco",
+        "saharan_algeria"
+      ]
+    },
+    "midwest": {
+      "id": "midwest",
+      "continentId": "north_us",
+      "bordersIds": [
+        "central_rocky_mountains",
+        "great_plains",
+        "gulf_coast",
+        "ontario",
+        "south_manitoba",
+        "texas",
+        "western_great_lakes"
+      ]
+    },
+    "mongolia": {
+      "id": "mongolia",
+      "continentId": "neutral",
+      "bordersIds": [
+        "amur",
+        "buryatia_republic",
+        "chita",
+        "nei_menggu",
+        "qinghai",
+        "xinjiang"
+      ]
+    },
+    "morocco": {
+      "id": "morocco",
+      "continentId": "north_africa",
+      "bordersIds": [
+        "mauritania",
+        "mediterranean_algeria",
+        "saharan_algeria"
+      ]
+    },
+    "mozambique": {
+      "id": "mozambique",
+      "continentId": "southern_africa",
+      "bordersIds": [
+        "south_africa",
+        "tanzania",
+        "zambia-zimbabwe"
+      ]
+    },
+    "myanmar": {
+      "id": "myanmar",
+      "continentId": "south_asia",
+      "bordersIds": [
+        "indochinese_peninsula",
+        "north_bay_of_bengal",
+        "south_china",
+        "tibet"
+      ]
+    },
+    "nei_menggu": {
+      "id": "nei_menggu",
+      "continentId": "west_china",
+      "bordersIds": [
+        "amur",
+        "khabarovsk",
+        "manchuria",
+        "mongolia",
+        "north_china",
+        "qinghai",
+        "sichuan"
+      ]
+    },
+    "new_brunswick": {
+      "id": "new_brunswick",
+      "continentId": "east_canada",
+      "bordersIds": [
+        "new_england",
+        "north_quebec",
+        "south_quebec"
+      ]
+    },
+    "new_england": {
+      "id": "new_england",
+      "continentId": "north_us",
+      "bordersIds": [
+        "eastern_great_lakes",
+        "new_brunswick",
+        "ontario",
+        "south_quebec",
+        "southeast_us"
+      ]
+    },
+    "new_guinea": {
+      "id": "new_guinea",
+      "continentId": "southeast_asia",
+      "bordersIds": [
+        "papua_new_guinea"
+      ]
+    },
+    "new_siberian_islands": {
+      "id": "new_siberian_islands",
+      "continentId": "yakutia",
+      "bordersIds": [
+        "chukotka",
+        "elgi_plateau",
+        "khabarovsk",
+        "magadan"
+      ]
+    },
+    "new_southwales": {
+      "id": "new_southwales",
+      "continentId": "australia",
+      "bordersIds": [
+        "queensland",
+        "south_australia",
+        "victoria"
+      ]
+    },
+    "niger": {
+      "id": "niger",
+      "continentId": "northwest_africa",
+      "bordersIds": [
+        "central_african_republics",
+        "libya",
+        "mali",
+        "nigeria",
+        "north_gulf",
+        "saharan_algeria"
+      ]
+    },
+    "nigeria": {
+      "id": "nigeria",
+      "continentId": "central_africa",
+      "bordersIds": [
+        "central_african_republics",
+        "equatorial_states",
+        "niger",
+        "north_gulf"
+      ]
+    },
+    "north_bay_of_bengal": {
+      "id": "north_bay_of_bengal",
+      "continentId": "south_asia",
+      "bordersIds": [
+        "myanmar",
+        "north_india",
+        "tibet"
+      ]
+    },
+    "north_brazil": {
+      "id": "north_brazil",
+      "continentId": "brazil",
+      "bordersIds": [
+        "amazonas",
+        "northeast_brazil",
+        "northeast_coast",
+        "west_central_brazil"
+      ]
+    },
+    "north_china": {
+      "id": "north_china",
+      "continentId": "east_china",
+      "bordersIds": [
+        "east_central_china",
+        "korean_peninsula",
+        "manchuria",
+        "nei_menggu",
+        "sichuan"
+      ]
+    },
+    "north_cono_sur": {
+      "id": "north_cono_sur",
+      "continentId": "southern_sa",
+      "bordersIds": [
+        "bolivia",
+        "paraguay",
+        "peru",
+        "south_cono_sur",
+        "subtropical_brazil",
+        "uruguay"
+      ]
+    },
+    "north_gulf": {
+      "id": "north_gulf",
+      "continentId": "northwest_africa",
+      "bordersIds": [
+        "mali",
+        "niger",
+        "nigeria",
+        "west_african_coast"
+      ]
+    },
+    "north_india": {
+      "id": "north_india",
+      "continentId": "south_asia",
+      "bordersIds": [
+        "north_bay_of_bengal",
+        "pakistan",
+        "south_india",
+        "tibet"
+      ]
+    },
+    "north_manitoba": {
+      "id": "north_manitoba",
+      "continentId": "south_canada",
+      "bordersIds": [
+        "alberta",
+        "kivalliq-nunavut",
+        "northwest_territories",
+        "ontario",
+        "south_manitoba"
+      ]
+    },
+    "north_mexico": {
+      "id": "north_mexico",
+      "continentId": "central_america",
+      "bordersIds": [
+        "baja_california",
+        "south_mexico",
+        "southwest_us",
+        "texas"
+      ]
+    },
+    "north_quebec": {
+      "id": "north_quebec",
+      "continentId": "east_canada",
+      "bordersIds": [
+        "labrador",
+        "new_brunswick",
+        "south_quebec"
+      ]
+    },
+    "northeast_brazil": {
+      "id": "northeast_brazil",
+      "continentId": "brazil",
+      "bordersIds": [
+        "north_brazil",
+        "southeast_brazil",
+        "west_central_brazil"
+      ]
+    },
+    "northeast_coast": {
+      "id": "northeast_coast",
+      "continentId": "northen_sa",
+      "bordersIds": [
+        "amazonas",
+        "north_brazil",
+        "venezuela"
+      ]
+    },
+    "northern_horn": {
+      "id": "northern_horn",
+      "continentId": "east_africa",
+      "bordersIds": [
+        "south_sudan",
+        "southern_horn",
+        "sudan"
+      ]
+    },
+    "northern_territory": {
+      "id": "northern_territory",
+      "continentId": "australia",
+      "bordersIds": [
+        "queensland",
+        "south_australia",
+        "western_australia"
+      ]
+    },
+    "northwest_russia": {
+      "id": "northwest_russia",
+      "continentId": "west_russia",
+      "bordersIds": [
+        "arkhangelsk",
+        "baltic_states",
+        "finland",
+        "norway",
+        "west_central_russia"
+      ]
+    },
+    "northwest_territories": {
+      "id": "northwest_territories",
+      "continentId": "north_canada",
+      "bordersIds": [
+        "alberta",
+        "british_columbia",
+        "central_artic_nunavut",
+        "kivalliq-nunavut",
+        "north_manitoba",
+        "yukon"
+      ]
+    },
+    "norway": {
+      "id": "norway",
+      "continentId": "scandinavia",
+      "bordersIds": [
+        "finland",
+        "northwest_russia",
+        "sweden"
+      ]
+    },
+    "nova_scotia": {
+      "id": "nova_scotia",
+      "continentId": "east_canada",
+      "bordersIds": [
+        "labrador"
+      ]
+    },
+    "novosibirsk": {
+      "id": "novosibirsk",
+      "continentId": "siberia",
+      "bordersIds": [
+        "buryatia_republic",
+        "central_kazakhstan",
+        "central_siberian_plateau",
+        "east_kazakhstan",
+        "khanty-mansiysk",
+        "tyumen"
+      ]
+    },
+    "noyabrsk": {
+      "id": "noyabrsk",
+      "continentId": "ural",
+      "bordersIds": [
+        "central_siberian_plateau",
+        "gulf_of_ob",
+        "khanty-mansiysk",
+        "taymyr_peninsula"
+      ]
+    },
+    "ontario": {
+      "id": "ontario",
+      "continentId": "south_canada",
+      "bordersIds": [
+        "midwest",
+        "new_england",
+        "north_manitoba",
+        "south_manitoba",
+        "south_quebec"
+      ]
+    },
+    "pacific_northwest": {
+      "id": "pacific_northwest",
+      "continentId": "west_us",
+      "bordersIds": [
+        "british_columbia",
+        "california",
+        "central_rocky_mountains",
+        "great_basin"
+      ]
+    },
+    "pakistan": {
+      "id": "pakistan",
+      "continentId": "central_eurasia",
+      "bordersIds": [
+        "afghanistan",
+        "central_asian_mountains",
+        "iran",
+        "north_india",
+        "tibet",
+        "xinjiang"
+      ]
+    },
+    "papua_new_guinea": {
+      "id": "papua_new_guinea",
+      "continentId": "south_pacific",
+      "bordersIds": [
+        "new_guinea"
+      ]
+    },
+    "paraguay": {
+      "id": "paraguay",
+      "continentId": "southern_sa",
+      "bordersIds": [
+        "bolivia",
+        "north_cono_sur",
+        "subtropical_brazil",
+        "west_central_brazil"
+      ]
+    },
+    "peru": {
+      "id": "peru",
+      "continentId": "northen_sa",
+      "bordersIds": [
+        "amazonas",
+        "bolivia",
+        "colombia",
+        "ecuador",
+        "north_cono_sur"
+      ]
+    },
+    "primorsky": {
+      "id": "primorsky",
+      "continentId": "russian_far_east",
+      "bordersIds": [
+        "khabarovsk",
+        "manchuria"
+      ]
+    },
+    "qaasuitsup": {
+      "id": "qaasuitsup",
+      "continentId": "greenland",
+      "bordersIds": [
+        "baffin-nunavut",
+        "qeqqata",
+        "sermersuaq"
+      ]
+    },
+    "qeqqata": {
+      "id": "qeqqata",
+      "continentId": "greenland",
+      "bordersIds": [
+        "kujalleg",
+        "qaasuitsup",
+        "semersooq",
+        "sermersuaq"
+      ]
+    },
+    "qinghai": {
+      "id": "qinghai",
+      "continentId": "west_china",
+      "bordersIds": [
+        "mongolia",
+        "nei_menggu",
+        "sichuan",
+        "tibet",
+        "xinjiang"
+      ]
+    },
+    "queensland": {
+      "id": "queensland",
+      "continentId": "australia",
+      "bordersIds": [
+        "new_southwales",
+        "northern_territory",
+        "south_australia"
+      ]
+    },
+    "saharan_algeria": {
+      "id": "saharan_algeria",
+      "continentId": "north_africa",
+      "bordersIds": [
+        "libya",
+        "mali",
+        "mauritania",
+        "mediterranean_algeria",
+        "morocco",
+        "niger"
+      ]
+    },
+    "saudi_arabia": {
+      "id": "saudi_arabia",
+      "continentId": "middle_east",
+      "bordersIds": [
+        "egypt",
+        "iraq",
+        "souther_arabia_states",
+        "the_levant"
+      ]
+    },
+    "semersooq": {
+      "id": "semersooq",
+      "continentId": "greenland",
+      "bordersIds": [
+        "kujalleg",
+        "qeqqata",
+        "sermersuaq",
+        "tunu"
+      ]
+    },
+    "sermersuaq": {
+      "id": "sermersuaq",
+      "continentId": "greenland",
+      "bordersIds": [
+        "qaasuitsup",
+        "qeqqata",
+        "semersooq",
+        "tunu"
+      ]
+    },
+    "sichuan": {
+      "id": "sichuan",
+      "continentId": "west_china",
+      "bordersIds": [
+        "east_central_china",
+        "nei_menggu",
+        "north_china",
+        "qinghai",
+        "south_china",
+        "tibet"
+      ]
+    },
+    "singapore": {
+      "id": "singapore",
+      "continentId": "neutral",
+      "bordersIds": [
+        "indochinese_peninsula",
+        "sumatra"
+      ]
+    },
+    "south_africa": {
+      "id": "south_africa",
+      "continentId": "southern_africa",
+      "bordersIds": [
+        "mozambique",
+        "southern_deserts",
+        "zambia-zimbabwe"
+      ]
+    },
+    "south_australia": {
+      "id": "south_australia",
+      "continentId": "australia",
+      "bordersIds": [
+        "new_southwales",
+        "northern_territory",
+        "queensland",
+        "victoria",
+        "western_australia"
+      ]
+    },
+    "south_china": {
+      "id": "south_china",
+      "continentId": "east_china",
+      "bordersIds": [
+        "east_central_china",
+        "hainan",
+        "indochinese_peninsula",
+        "myanmar",
+        "sichuan",
+        "southeast_china",
+        "tibet"
+      ]
+    },
+    "south_cono_sur": {
+      "id": "south_cono_sur",
+      "continentId": "southern_sa",
+      "bordersIds": [
+        "north_cono_sur"
+      ]
+    },
+    "south_india": {
+      "id": "south_india",
+      "continentId": "south_asia",
+      "bordersIds": [
+        "north_india"
+      ]
+    },
+    "south_manitoba": {
+      "id": "south_manitoba",
+      "continentId": "south_canada",
+      "bordersIds": [
+        "alberta",
+        "central_rocky_mountains",
+        "midwest",
+        "north_manitoba",
+        "ontario"
+      ]
+    },
+    "south_mexico": {
+      "id": "south_mexico",
+      "continentId": "central_america",
+      "bordersIds": [
+        "north_mexico",
+        "southern_mesoamerica"
+      ]
+    },
+    "south_quebec": {
+      "id": "south_quebec",
+      "continentId": "east_canada",
+      "bordersIds": [
+        "new_brunswick",
+        "new_england",
+        "north_quebec",
+        "ontario"
+      ]
+    },
+    "south_sudan": {
+      "id": "south_sudan",
+      "continentId": "east_africa",
+      "bordersIds": [
+        "central_african_republics",
+        "congo",
+        "northern_horn",
+        "southern_horn",
+        "sudan"
+      ]
+    },
+    "southeast_brazil": {
+      "id": "southeast_brazil",
+      "continentId": "brazil",
+      "bordersIds": [
+        "northeast_brazil",
+        "subtropical_brazil",
+        "west_central_brazil"
+      ]
+    },
+    "southeast_china": {
+      "id": "southeast_china",
+      "continentId": "east_china",
+      "bordersIds": [
+        "east_central_china",
+        "south_china"
+      ]
+    },
+    "southeast_us": {
+      "id": "southeast_us",
+      "continentId": "south_us",
+      "bordersIds": [
+        "eastern_great_lakes",
+        "floridian_peninsula",
+        "gulf_coast",
+        "new_england",
+        "western_great_lakes"
+      ]
+    },
+    "souther_arabia_states": {
+      "id": "souther_arabia_states",
+      "continentId": "middle_east",
+      "bordersIds": [
+        "saudi_arabia"
+      ]
+    },
+    "southern_deserts": {
+      "id": "southern_deserts",
+      "continentId": "southern_africa",
+      "bordersIds": [
+        "angola",
+        "south_africa",
+        "zambia-zimbabwe"
+      ]
+    },
+    "southern_horn": {
+      "id": "southern_horn",
+      "continentId": "east_africa",
+      "bordersIds": [
+        "congo",
+        "northern_horn",
+        "south_sudan",
+        "tanzania"
+      ]
+    },
+    "southern_mesoamerica": {
+      "id": "southern_mesoamerica",
+      "continentId": "central_america",
+      "bordersIds": [
+        "colombia",
+        "south_mexico"
+      ]
+    },
+    "southwest_russia": {
+      "id": "southwest_russia",
+      "continentId": "west_russia",
+      "bordersIds": [
+        "transcaucasia",
+        "ukraine",
+        "volga",
+        "west_central_russia",
+        "west_kazakhstan"
+      ]
+    },
+    "southwest_us": {
+      "id": "southwest_us",
+      "continentId": "west_us",
+      "bordersIds": [
+        "baja_california",
+        "california",
+        "great_basin",
+        "great_plains",
+        "north_mexico",
+        "texas"
+      ]
+    },
+    "subtropical_brazil": {
+      "id": "subtropical_brazil",
+      "continentId": "brazil",
+      "bordersIds": [
+        "north_cono_sur",
+        "paraguay",
+        "southeast_brazil",
+        "uruguay",
+        "west_central_brazil"
+      ]
+    },
+    "sudan": {
+      "id": "sudan",
+      "continentId": "east_africa",
+      "bordersIds": [
+        "central_african_republics",
+        "egypt",
+        "libya",
+        "northern_horn",
+        "south_sudan"
+      ]
+    },
+    "sumatra": {
+      "id": "sumatra",
+      "continentId": "southeast_asia",
+      "bordersIds": [
+        "java",
+        "singapore"
+      ]
+    },
+    "sverdlovsk": {
+      "id": "sverdlovsk",
+      "continentId": "ural",
+      "bordersIds": [
+        "central_kazakhstan",
+        "khanty-mansiysk",
+        "komi_republic",
+        "tyumen",
+        "volga"
+      ]
+    },
+    "sweden": {
+      "id": "sweden",
+      "continentId": "scandinavia",
+      "bordersIds": [
+        "finland",
+        "norway"
+      ]
+    },
+    "tanzania": {
+      "id": "tanzania",
+      "continentId": "east_africa",
+      "bordersIds": [
+        "congo",
+        "mozambique",
+        "southern_horn",
+        "zambia-zimbabwe"
+      ]
+    },
+    "taymyr_peninsula": {
+      "id": "taymyr_peninsula",
+      "continentId": "siberia",
+      "bordersIds": [
+        "central_siberian_plateau",
+        "central_yakut_plain",
+        "gulf_of_ob",
+        "irkutsk",
+        "noyabrsk"
+      ]
+    },
+    "texas": {
+      "id": "texas",
+      "continentId": "south_us",
+      "bordersIds": [
+        "great_plains",
+        "gulf_coast",
+        "midwest",
+        "north_mexico",
+        "southwest_us"
+      ]
+    },
+    "the_levant": {
+      "id": "the_levant",
+      "continentId": "middle_east",
+      "bordersIds": [
+        "egypt",
+        "iraq",
+        "saudi_arabia",
+        "turkey"
+      ]
+    },
+    "tibet": {
+      "id": "tibet",
+      "continentId": "west_china",
+      "bordersIds": [
+        "myanmar",
+        "north_bay_of_bengal",
+        "north_india",
+        "pakistan",
+        "qinghai",
+        "sichuan",
+        "south_china",
+        "xinjiang"
+      ]
+    },
+    "transcaucasia": {
+      "id": "transcaucasia",
+      "continentId": "neutral",
+      "bordersIds": [
+        "iran",
+        "southwest_russia",
+        "turkey"
+      ]
+    },
+    "tunu": {
+      "id": "tunu",
+      "continentId": "greenland",
+      "bordersIds": [
+        "semersooq",
+        "sermersuaq"
+      ]
+    },
+    "turkey": {
+      "id": "turkey",
+      "continentId": "middle_east",
+      "bordersIds": [
+        "balkan_penisula",
+        "iran",
+        "iraq",
+        "the_levant",
+        "transcaucasia"
+      ]
+    },
+    "tyumen": {
+      "id": "tyumen",
+      "continentId": "ural",
+      "bordersIds": [
+        "central_kazakhstan",
+        "khanty-mansiysk",
+        "novosibirsk",
+        "sverdlovsk"
+      ]
+    },
+    "ukraine": {
+      "id": "ukraine",
+      "continentId": "eastern_europe",
+      "bordersIds": [
+        "balkan_penisula",
+        "baltic_states",
+        "east_central_europe",
+        "southwest_russia",
+        "west_central_russia"
+      ]
+    },
+    "uruguay": {
+      "id": "uruguay",
+      "continentId": "southern_sa",
+      "bordersIds": [
+        "north_cono_sur",
+        "subtropical_brazil"
+      ]
+    },
+    "venezuela": {
+      "id": "venezuela",
+      "continentId": "northen_sa",
+      "bordersIds": [
+        "amazonas",
+        "colombia",
+        "northeast_coast"
+      ]
+    },
+    "victoria": {
+      "id": "victoria",
+      "continentId": "australia",
+      "bordersIds": [
+        "new_southwales",
+        "south_australia"
+      ]
+    },
+    "volga": {
+      "id": "volga",
+      "continentId": "west_russia",
+      "bordersIds": [
+        "arkhangelsk",
+        "central_kazakhstan",
+        "komi_republic",
+        "southwest_russia",
+        "sverdlovsk",
+        "west_central_russia",
+        "west_kazakhstan"
+      ]
+    },
+    "west_african_coast": {
+      "id": "west_african_coast",
+      "continentId": "northwest_africa",
+      "bordersIds": [
+        "mali",
+        "mauritania",
+        "north_gulf"
+      ]
+    },
+    "west_central_brazil": {
+      "id": "west_central_brazil",
+      "continentId": "brazil",
+      "bordersIds": [
+        "amazonas",
+        "bolivia",
+        "north_brazil",
+        "northeast_brazil",
+        "paraguay",
+        "southeast_brazil",
+        "subtropical_brazil"
+      ]
+    },
+    "west_central_europe": {
+      "id": "west_central_europe",
+      "continentId": "western_europe",
+      "bordersIds": [
+        "denmark",
+        "east_central_europe",
+        "france",
+        "italian_peninsula"
+      ]
+    },
+    "west_central_russia": {
+      "id": "west_central_russia",
+      "continentId": "west_russia",
+      "bordersIds": [
+        "arkhangelsk",
+        "baltic_states",
+        "northwest_russia",
+        "southwest_russia",
+        "ukraine",
+        "volga"
+      ]
+    },
+    "west_kazakhstan": {
+      "id": "west_kazakhstan",
+      "continentId": "kazakhstan",
+      "bordersIds": [
+        "central_kazakhstan",
+        "karakum_desert",
+        "southwest_russia",
+        "volga"
+      ]
+    },
+    "western_australia": {
+      "id": "western_australia",
+      "continentId": "australia",
+      "bordersIds": [
+        "northern_territory",
+        "south_australia"
+      ]
+    },
+    "western_great_lakes": {
+      "id": "western_great_lakes",
+      "continentId": "north_us",
+      "bordersIds": [
+        "eastern_great_lakes",
+        "gulf_coast",
+        "midwest",
+        "southeast_us"
+      ]
+    },
+    "xinjiang": {
+      "id": "xinjiang",
+      "continentId": "west_china",
+      "bordersIds": [
+        "buryatia_republic",
+        "central_asian_mountains",
+        "east_kazakhstan",
+        "mongolia",
+        "pakistan",
+        "qinghai",
+        "tibet"
+      ]
+    },
+    "yukon": {
+      "id": "yukon",
+      "continentId": "north_canada",
+      "bordersIds": [
+        "anchorage",
+        "barrow",
+        "british_columbia",
+        "fairbanks",
+        "northwest_territories"
+      ]
+    },
+    "zambia-zimbabwe": {
+      "id": "zambia-zimbabwe",
+      "continentId": "southern_africa",
+      "bordersIds": [
+        "angola",
+        "congo",
+        "mozambique",
+        "south_africa",
+        "southern_deserts",
+        "tanzania"
+      ]
+    }
+  },
+  "continents": {
+    "alaska": {
+      "id": "alaska",
+      "bonus": 5
+    },
+    "australia": {
+      "id": "australia",
+      "bonus": 5
+    },
+    "brazil": {
+      "id": "brazil",
+      "bonus": 5
+    },
+    "central_africa": {
+      "id": "central_africa",
+      "bonus": 5
+    },
+    "central_america": {
+      "id": "central_america",
+      "bonus": 5
+    },
+    "central_eurasia": {
+      "id": "central_eurasia",
+      "bonus": 5
+    },
+    "east_africa": {
+      "id": "east_africa",
+      "bonus": 5
+    },
+    "east_canada": {
+      "id": "east_canada",
+      "bonus": 5
+    },
+    "east_china": {
+      "id": "east_china",
+      "bonus": 5
+    },
+    "east_pacific": {
+      "id": "east_pacific",
+      "bonus": 5
+    },
+    "eastern_europe": {
+      "id": "eastern_europe",
+      "bonus": 5
+    },
+    "greenland": {
+      "id": "greenland",
+      "bonus": 5
+    },
+    "kazakhstan": {
+      "id": "kazakhstan",
+      "bonus": 5
+    },
+    "middle_east": {
+      "id": "middle_east",
+      "bonus": 5
+    },
+    "neutral": {
+      "id": "neutral",
+      "bonus": 5
+    },
+    "north_africa": {
+      "id": "north_africa",
+      "bonus": 5
+    },
+    "north_canada": {
+      "id": "north_canada",
+      "bonus": 5
+    },
+    "north_us": {
+      "id": "north_us",
+      "bonus": 5
+    },
+    "northen_sa": {
+      "id": "northen_sa",
+      "bonus": 5
+    },
+    "northwest_africa": {
+      "id": "northwest_africa",
+      "bonus": 5
+    },
+    "russian_far_east": {
+      "id": "russian_far_east",
+      "bonus": 5
+    },
+    "scandinavia": {
+      "id": "scandinavia",
+      "bonus": 5
+    },
+    "siberia": {
+      "id": "siberia",
+      "bonus": 5
+    },
+    "south_asia": {
+      "id": "south_asia",
+      "bonus": 5
+    },
+    "south_canada": {
+      "id": "south_canada",
+      "bonus": 5
+    },
+    "south_pacific": {
+      "id": "south_pacific",
+      "bonus": 5
+    },
+    "south_us": {
+      "id": "south_us",
+      "bonus": 5
+    },
+    "southeast_asia": {
+      "id": "southeast_asia",
+      "bonus": 5
+    },
+    "southern_africa": {
+      "id": "southern_africa",
+      "bonus": 5
+    },
+    "southern_sa": {
+      "id": "southern_sa",
+      "bonus": 5
+    },
+    "ural": {
+      "id": "ural",
+      "bonus": 5
+    },
+    "west_china": {
+      "id": "west_china",
+      "bonus": 5
+    },
+    "west_pacific": {
+      "id": "west_pacific",
+      "bonus": 5
+    },
+    "west_russia": {
+      "id": "west_russia",
+      "bonus": 5
+    },
+    "west_us": {
+      "id": "west_us",
+      "bonus": 5
+    },
+    "western_europe": {
+      "id": "western_europe",
+      "bonus": 5
+    },
+    "yakutia": {
+      "id": "yakutia",
+      "bonus": 5
+    }
+  }
+}
